@@ -1,0 +1,34 @@
+.tab1{
+    width: 40%;
+    background: rgba(128, 128, 128, 0.121);
+    margin: 0 auto;
+}
+
+.tab2{
+    margin: 0 auto;
+    border: solid;    
+}
+.tab3{
+    margin: 0 auto;
+    border: solid;  
+}
+.tab4{
+    width: 30%;
+    margin: 0 auto;
+}
+
+.tab5{
+    width: 50%;
+}
+
+.form1{
+    border: 1px solid green;
+    width: 50%;
+}
+
+.tabInicio{
+    margin: 0 auto;
+    width: 15%;
+    border: 3px solid red;
+    background: rgba(0, 0, 0, 0.15);
+}
